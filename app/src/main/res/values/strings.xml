@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">jsonClientLogin</string>
+    <string name="tab_login">Login</string>
+    <string name="tab_create">New Account</string>
+    <string name="content_desc_logo">Logo</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_create">Create</string>
+    <string name="message_password">Password invalid</string>
+    <string name="message_noexists">Account doesn\'t exist</string>
+    <string name="message_exists">Account already exists</string>
+    <string name="message_error">Unknown error try again</string>
+    <string name="button_logout">Logout</string>
+</resources>
